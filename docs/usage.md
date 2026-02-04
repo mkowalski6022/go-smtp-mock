@@ -21,3 +21,4 @@ Notes and usage details for go-smtp-mock.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- clarify the setup steps
